@@ -59,7 +59,7 @@ for x in range(0,len(symptoms)):
 # In[10]:
 
 
-df=pd.read_csv('D:\Data for Machine Learning Projects\Health Prediction Data\Training.csv')
+df=pd.read_csv('https://github.com/bansal6498/Project_Machine_learning/blob/master/Training.csv')
 
 
 # In[9]:
@@ -92,7 +92,7 @@ np.ravel(y)
 # In[9]:
 
 
-tr= pd.read_csv('D:\Data for Machine Learning Projects\Health Prediction Data\Testing.csv')
+tr= pd.read_csv('https://github.com/bansal6498/Project_Machine_learning/blob/master/Testing.csv')
 
 
 # In[10]:
